@@ -1,6 +1,6 @@
 <?php
 
-namespace PayPalCheckoutSdk\Core;
+namespace PayPalInvoiceSdk\Core;
 
 use PayPalHttp\HttpRequest;
 
